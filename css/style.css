@@ -1,0 +1,23 @@
+body {
+    background-color: #FFFBF5;
+    font-family: Dubai,Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: #6096B4;
+}
+
+h2 {
+    color: #645CBB;
+}
+
+h3 {
+    color: #C0EEF2;
+}
+
+hr {
+    border-color: black;
+    border-style: dotted none none;
+    border-width: 05px;
+    width: 5%;
+}
